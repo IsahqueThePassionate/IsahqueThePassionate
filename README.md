@@ -24,7 +24,7 @@ Recent engineering graduate passionate about coding and web development. Profici
 
 - Email: [muhammadishaque732@gmail.com](muhammadishaque732@gmail.com)
 - Facebook: [Muhammad ishaque](https://www.facebook.com/muhammad.ishaque.7121/)
-- Github: [CodingSahib]([https://github.com/CodingSahib](https://github.com/IshaqueThePassionate))
+- Github: [CodingSahib](https://github.com/IshaqueThePassionate)
 
 
 
